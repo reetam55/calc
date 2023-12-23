@@ -1,0 +1,25 @@
+/*centering heading*/
+.text-centre {
+  text-align: center;
+}
+
+ giving background image 
+.bg-red{
+  background-image: url(signup\ img.png);
+}
+.margin {
+  margin: auto;
+
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.items {
+  align-items: center;
+}
